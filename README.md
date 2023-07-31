@@ -1,4 +1,4 @@
-##¡Hola, bienvenido/a a mi perfil de GitHub! 👋
+# ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
 
 ## Acerca de mí
 ¡Hola! Soy [Tu nombre de usuario/a], un estudiante de 19 años de edad, apasionado por la Ingeniería en Sistemas y Computación. Me encanta explorar el mundo de la programación y estoy entusiasmado por seguir aprendiendo y pulir mis habilidades en este emocionante campo.
@@ -26,20 +26,3 @@ Estoy siempre buscando aprender nuevas tecnologías y metodologías, así que si
 _Última actualización: [Fecha de última actualización]_
 
 ---
-
-*Nota: Recuerda reemplazar `[Tu nombre de usuario/a]`, `[tucorreo@example.com]`, `[Tu perfil de LinkedIn]` y `[Fecha de última actualización]` con tu información correspondiente.*
-
-<!--
-**kalethabh/Kalethabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
