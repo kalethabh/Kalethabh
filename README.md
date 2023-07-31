@@ -15,8 +15,8 @@ Aquí, en mi perfil de GitHub, encontrarás algunos de mis proyectos más intere
 ## Contacto
 Si te gustaría conectarte o colaborar en algún proyecto, ¡no dudes en contactarme! Puedes encontrarme en las siguientes redes sociales:
 
-- LinkedIn: [Tu perfil de LinkedIn](enlace)
-- Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
+- LinkedIn: https://www.linkedin.com/in/kaleth-benjumea-hern%C3%A1ndez-b848a4254/.
+- Correo electrónico: kalethabh@gmail.com.
 
 ## Aprendiendo y Creciendo
 Estoy siempre buscando aprender nuevas tecnologías y metodologías, así que si tienes alguna recomendación, recurso o consejo, ¡estaré encantado/a de escucharlo!
