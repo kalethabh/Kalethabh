@@ -3,7 +3,7 @@
 ## Sobre mí 🙋‍♂️
 
 - 🎓 Actualmente estoy estudiando Ingeniería en Sistemas y Computaciones en la Universidad Tecnológica de Bolívar.
-- 💻 Me encanta el Desarrollo Web y estoy enfocado en aprender tecnologías front-end y back-end para crear aplicaciones web funcionales y atractivas.
+- 💻 Me encanta el Desarrollo Web y estoy enfocado en aprender muchas más tecnologías front-end y back-end para crear aplicaciones web funcionales y atractivas.
 - 🌱 Siempre estoy en busca de nuevos retos y oportunidades para mejorar mis habilidades y conocimientos en el mundo de la programación.
 - 🤝 Me gusta colaborar en proyectos de código abierto y aprender de otros desarrolladores talentosos.
 
