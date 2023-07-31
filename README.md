@@ -27,7 +27,7 @@ Si te gustaría conectarte o colaborar en algún proyecto, ¡no dudes en contact
 - LinkedIn: https://www.linkedin.com/in/kaleth-benjumea-hern%C3%A1ndez-b848a4254/.
 - Correo electrónico: kalethabh@gmail.com.
 
-## Aprendiendo y Creciendo
+## Aprendiendo y Creciendo 🥇
 Estoy siempre buscando aprender nuevas tecnologías y metodologías, así que si tienes alguna recomendación, recurso o consejo, ¡estaré encantado de escucharlo!
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante por aquí. ¡Vamos a crear cosas increíbles juntos! 💻 🚀
