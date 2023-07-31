@@ -1,7 +1,7 @@
 # ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
 
 ## Acerca de mí
-¡Hola! Soy [Tu nombre de usuario/a], un estudiante de 19 años de edad, apasionado por la Ingeniería en Sistemas y Computación. Me encanta explorar el mundo de la programación y estoy entusiasmado por seguir aprendiendo y pulir mis habilidades en este emocionante campo.
+¡Hola! Soy Kaleth Benjumea, un estudiante de 19 años de edad, apasionado por la Ingeniería en Sistemas y Computación. Me encanta explorar el mundo de la programación y estoy entusiasmado por seguir aprendiendo y pulir mis habilidades en este emocionante campo.
 
 ## Intereses
 - Desarrollo de software y aplicaciones web.
