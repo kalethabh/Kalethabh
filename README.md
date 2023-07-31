@@ -28,6 +28,6 @@ Si te gustaría conectarte o colaborar en algún proyecto, ¡no dudes en contact
 - Correo electrónico: kalethabh@gmail.com.
 
 ## Aprendiendo y Creciendo
-Estoy siempre buscando aprender nuevas tecnologías y metodologías, así que si tienes alguna recomendación, recurso o consejo, ¡estaré encantado/a de escucharlo!
+Estoy siempre buscando aprender nuevas tecnologías y metodologías, así que si tienes alguna recomendación, recurso o consejo, ¡estaré encantado de escucharlo!
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante por aquí. ¡Vamos a crear cosas increíbles juntos/as! 💻 🚀
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante por aquí. ¡Vamos a crear cosas increíbles juntos! 💻 🚀
