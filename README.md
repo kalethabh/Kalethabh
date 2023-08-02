@@ -24,7 +24,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 ## Contacto 📬
 Si te gustaría conectarte o colaborar en algún proyecto, ¡no dudes en contactarme! Puedes encontrarme en las siguientes redes sociales:
 
-- LinkedIn: https://www.linkedin.com/in/kaleth-benjumea-hern%C3%A1ndez-b848a4254/.
+- LinkedIn: https://www.linkedin.com/in/kaleth-alexander-benjumea-hern%C3%A1ndez-b848a4254/.
 - Correo electrónico: kalethabh@gmail.com.
 
 ## Aprendiendo y Creciendo 🥇
